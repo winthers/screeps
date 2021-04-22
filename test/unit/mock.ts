@@ -8,3 +8,8 @@ export const Game = {
 export const Memory = {
   creeps: []
 };
+
+
+export const WORK = "work";
+export const CARRY = "carry"
+export const MOVE = "move";
